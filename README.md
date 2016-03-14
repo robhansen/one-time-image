@@ -5,6 +5,7 @@ Designed to demonstrate how one-time pads work in a visual fashion.
 
 # Requirements
 Requires Python 2
+
 Requires Python Imaging Library (http://www.pythonware.com/products/pil/)
 * install with pip: *pip install pil*
 * install with easy install: *easy_install pil*
